@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "../dtd/Employee.dtd">
+<employees>
+<emplo id="emp1" name="tom" depName="教学部" >
+
+</emplo>
+
+</employees>

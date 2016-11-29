@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE courses SYSTEM "../dtd/courses.dtd">
+<courses num="12" name="math" time="10:00" class="excelent">
+
+</courses>

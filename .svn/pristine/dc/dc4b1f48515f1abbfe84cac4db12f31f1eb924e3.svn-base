@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ATTLIST courses 
+	num CDATA
+	name CDATA
+	time CDATA
+	teacher #FIXED "alan"
+	class #IMPLIED
+>

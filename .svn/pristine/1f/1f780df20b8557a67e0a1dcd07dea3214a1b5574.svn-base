@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<stu class="com.briup.test1">
+		<name>alan</name>
+		<age>23</age>
+		<adress>
+			<city>shanhai</city>
+		</adress>
+	</stu >
+	<stu class="com.briup.test2">
+		<name>jade</name>
+		<age>23</age>
+		<adress>
+			<city>shanhai</city>
+		</adress>
+	</stu>
+	<stu class="com.briup.test3">
+		<name>bob</name>
+		<age>23</age>
+		<adress>
+			<city>shanhai</city>
+		</adress>
+	</stu>
+</students>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<pub:stu xmlns:pub="www.baidu.com">
+		<pub:id></pub:id>
+		<pub:name></pub:name>
+	</pub:stu>
+	<hub:stu xmlns:hub="www.google.com">
+		<hub:id></hub:id>
+		<hub:name></hub:name>
+	</hub:stu>
+</student>

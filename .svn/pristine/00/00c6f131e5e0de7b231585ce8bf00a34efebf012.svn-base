@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sutdent[
+	<!ELEMENT stu (id+,name,age)>
+	<!ELEMENT id (#PCDATA)>
+	<!ATTLIST stu id ID #REQUIRE
+			  	  age (12|23)
+	>
+]>
+<student>
+	<stu id="12">
+		<id></id>
+		<name></name>
+		<age></age>
+	</stu>
+</student>

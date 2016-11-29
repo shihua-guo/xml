@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT customers (customer)>
+<!ELEMENT customer (name)>
+<!ATTLIST name 
+	value (tom|alexlee|jack) #REQUIRED
+>

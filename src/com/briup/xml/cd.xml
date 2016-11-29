@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cds SYSTEM "../dtd/cd.dtd">
+<cds>
+	<cd>
+		<company>SONY</company>
+		<year>2005</year>
+		<code>sony-1</code>
+		<code>sony-2</code>
+		<code>sony-3</code>
+		<code>sony-4</code>
+	</cd>
+</cds>
